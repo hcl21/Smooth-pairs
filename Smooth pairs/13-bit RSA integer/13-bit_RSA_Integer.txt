@@ -1,0 +1,23 @@
+N indicates the RSA integer, Dim indicates the smooth bound of |u-vN|
+
+The first element in the list represents the value of u, the second is the value of v,the third is the value of |u-vn |, and the fourth is the value of u-vn
+
+N = 5723, Dim = 12
+[5184, 1, 539, -539]
+[6250, 1, 527, 527]
+[12500, 3, 4669, -4669]
+[5625, 1, 98, -98]
+[8000, 1, 2277, 2277]
+[5400, 1, 323, -323]
+[156250, 27, 1729, 1729]
+[5760, 1, 37, 37]
+[3500, 1, 2223, -2223]
+[3675, 1, 2048, -2048]
+[2940, 1, 2783, -2783]
+[30625, 4, 7733, 7733]
+[17150, 3, 19, -19]
+[6048, 1, 325, 325]
+[5145, 1, 578, -578]
+[28224, 5, 391, -391]
+[28672, 5, 57, 57]
+[45927, 8, 143, 143]
